@@ -129,6 +129,10 @@
 
 
     .scrollbar-item { min-width: calc(25% - 20px);}
+
+    .logo{
+        padding-top: 15px;
+    }
 }
 
 /*responsive for large than 1200px screen*/
