@@ -71,6 +71,11 @@
         margin-inline: auto;
     }
 
+    .section-title{
+        text-align: center;
+        font-size: 3rem;
+    }
+
 }
 
 /*responsive for large than 992px screen*/
@@ -104,8 +109,6 @@
 
    
 
-    .section-title { text-align: left;}
-
     /*service*/
     .card-text {
         padding-inline: 25px;
@@ -113,9 +116,7 @@
         margin-block-end: 15px;
     }
 
-    .section-title{
-        text-align: center;
-    }
+    
 
     .container {
         grid-template-columns: 1fr 0.75fr;
@@ -168,6 +169,10 @@
         height: 55px;
      }
 
+     .h2{
+        font-size: 3rem;
+    }
+
      
 }
 
@@ -192,6 +197,7 @@
     :is.container{
         max-width: 1280px;
     }
+
 
     .section-subtitle::before {
         height: 20px;
