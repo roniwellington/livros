@@ -6,8 +6,8 @@
 
 .work-card .card-content {
   background-color: var(--white);
-  max-width: 90%;
-  padding: 30px 10px;
+  max-width: 80%;
+  padding: 10px;
   margin-block-start: -60px;
   margin-inline: auto;
   position: relative;
@@ -30,8 +30,8 @@
   color: var(--white);
   font-size: 2rem;
   margin-inline: auto;
-  width: 38px;
-  height: 38px;
+  width: 28px;
+  height: 28px;
   display: grid;
   place-items: center;
   border-radius: var(--radius-circle);
