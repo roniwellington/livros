@@ -12,7 +12,7 @@
     --pastel-pink: hsl(1, 53%, 75%);
     --eerie-black: hsl(0, 0%, 15%);
     --light-gray: hsl(0, 0%, 80%);
-    --white: hsl(0, 0%, 100%);
+    --white: hsl(0, 64%, 98%);
 
     /*typography*/
     --ff-chakra-petch: 'Chakra Petch', sans-serif;
@@ -262,3 +262,7 @@ body {
 }
 
 .has-scrollbar::-webkit-scrollbar-button{ width: 15%;}
+
+.top{
+    margin-top: 50px;
+}
