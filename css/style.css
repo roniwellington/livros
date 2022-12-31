@@ -238,13 +238,14 @@ body {
     display: flex;
     align-items: center;
     gap: 30px;
+   
     overflow-x: auto;
     scroll-snap-type: mandatory;
     padding-block-end: 20px;
 }
 
 .scrollbar-item {
-    min-width: 100%;
+    min-width: 50%;
     scroll-snap-align: start;
 }
 
@@ -285,3 +286,4 @@ body {
 .logo{
     color: white;
 }
+
