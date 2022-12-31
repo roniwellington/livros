@@ -4,7 +4,7 @@
 
 .work-card { position: relative;}
 
-.work-card .card-content {
+.work-card  {
   background-color: var(--white);
   max-width: 80%;
   padding: 10px;
