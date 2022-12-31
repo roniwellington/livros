@@ -238,7 +238,7 @@ body {
     display: flex;
     align-items: center;
     gap: 30px;
-   
+    height: 100%;
     overflow-x: auto;
     scroll-snap-type: mandatory;
     padding-block-end: 20px;
